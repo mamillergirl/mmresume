@@ -1,89 +1,78 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Marisa Miller
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+Aspiring software engineer with a strong foundation in software development and a passion for innovation. Seeking to contribute my technical skills and creativity to a dynamic team.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+<a href="mamillergirl@gmail.com">mamillergirl@gmail.com</a>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<a href="https://github.com/mamillergirl">GitHub</a>
+
+</div>
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2021- April 2024`
+**Brigham Young University - Idaho**, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+B.S. in Software Engineering | GPA: 4.0/4.0  
+Web Design and Development Minor  
+Relevant Courses: Data Structures, Web Services, Frontend Development, Database Design and Development, Calculus II
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Projects
 
-- 4.0 Major GPA
+### Rexburg SuperSaver Web App | 3rd Place Hackathon Win
 
+`October 2023`
 
-## Related Experience
+- Led a 3-person team in developing Rexburg SuperSaver, a React-based web app that revolutionized access to weekly grocery deals in Rexburg, Idaho.
+- Utilized React for the frontend, Node.js for the backend, Firebase for data synchronization, and Selenium with Python for web scraping.
+- Personally designedand developed the frontend and core functionality, resulting in an efficient and user-friendly solution.
 
-### Internships
+### Rideboard Mobile App | Class Project
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Collaborated within a 4-person team to conceive, design, and execute a ride-board mobile app utilizing React Native and Google Firebase within an 11-week timeframe.
+- Led backend development and cooperated with team members working on frontend development to deliver a seamless user experience.
 
-### Data Science Lead
+### Recipe Manager Web App | Personal Project
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2023`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Conceptualized, crafted, and coded a web application with React, integrating the Edamam Recipe API, and empowering users to search for and save recipes based on ingredient preferences.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Experience
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Software Development Intern
 
-### Data Science Consulting Team
+`June 2023 - August 2023`
+**Clinisys**, Tucson, AZ
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Contributed to development and testing of a healthcare analytics web platform.
+- Partnered with diverse scrum team members to provide impactful solutions.
+- Conducted strategic research to inform decision-making for the future of the product.
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Personal Shopper
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`May 2022 - June 2023`
+**Walmart**, Show Low, AZ
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Ranked highly amongst 100+ customers, for providing exceptional and friendly service with unwavering consistency.
+- Coordinated with team members to achieve set time and quality goals.
 
+### Customer Service Representative
 
-## Service and Work History
+`June 2021 - September 2021`
+**Summit Healthcare**, Show Low, AZ
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Performed customer service to patients, ensuring a warm and welcoming experience at all times.
+- Organized and vigilantly detected and rectified errors within medical charts, upholding data accuracy.
+- Partnered with medical personnel to address patient inquiries and concerns.
 
+## Technical Skills
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+TypeScript, JavaScript, SQL, MySQL, HTML, CSS, ReactJS, React Native
+C#, Python, MongoDB, NodeJS, PHP, Firebase, Figma
